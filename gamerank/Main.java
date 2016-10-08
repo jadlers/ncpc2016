@@ -1,3 +1,5 @@
+/* Made by Joel Vikström, Jacob Adlers & Tim Wayburn */
+
 public class Main{
 
   public static void main(String[] args){

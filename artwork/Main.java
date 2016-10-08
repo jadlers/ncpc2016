@@ -1,3 +1,5 @@
+/* Made by Joel Vikström, Jacob Adlers & Tim Wayburn */
+
 import java.util.LinkedList;
 
 public class Main {

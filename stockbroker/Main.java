@@ -1,3 +1,5 @@
+/* Made by Joel Vikström, Jacob Adlers & Tim Wayburn */
+
 import java.util.Arrays;
 import java.util.ArrayList;
 

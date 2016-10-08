@@ -1,3 +1,5 @@
+/* Made by Joel Vikström, Jacob Adlers & Tim Wayburn */
+
 import java.lang.Math;
 
 public class Main2 {
