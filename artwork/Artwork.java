@@ -2,7 +2,7 @@
 
 import java.util.LinkedList;
 
-public class Main {
+public class Artwork {
 
   public static void main(String[] arg) {
     Kattio io = new Kattio(System.in, System.out);

@@ -2,7 +2,7 @@
 
 import java.lang.Math;
 
-public class Main {
+public class Compass {
 
   public static void main(String[] arg) {
     Kattio io = new Kattio(System.in, System.out);

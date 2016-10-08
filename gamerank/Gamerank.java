@@ -1,6 +1,6 @@
 /* Made by Joel Vikström, Jacob Adlers & Tim Wayburn */
 
-public class Main{
+public class Gamerank {
 
   public static void main(String[] args){
     Kattio io = new Kattio(System.in, System.out);

@@ -3,7 +3,7 @@
 import java.util.Arrays;
 import java.util.ArrayList;
 
-public class Main {
+public class Stockbroker {
 
   static public int stocks;
   static public long money;
